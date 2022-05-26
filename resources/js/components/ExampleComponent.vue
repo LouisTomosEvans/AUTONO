@@ -6,7 +6,7 @@
                     <div class="card-header">Example Component</div>
 
                     <div class="card-body">
-                        I'm an example component.
+                        Self Driving Car Software Goes Here
                     </div>
                 </div>
             </div>

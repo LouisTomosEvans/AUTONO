@@ -15222,7 +15222,7 @@ var render = function () {
           _c("v-card", { attrs: { elevation: "0" } }, [
             _c("div", { staticClass: "p-4" }, [
               _vm._v(
-                "\n                    example component\n                "
+                "\n                    Self Driving Car Software Goes Here\n                "
               ),
             ]),
           ]),

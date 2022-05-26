@@ -4,7 +4,7 @@
             <div class="col-12">
                 <v-card elevation=0>
                     <div class="p-4">
-                        example component
+                        Self Driving Car Software Goes Here
                     </div>
                 </v-card>
             </div>
